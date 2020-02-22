@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  margin: 0;
+}
+
+.ma-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1em;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.ma-subcontainer {
+  flex: 1 0 auto;
+}
+
+h1 {
+  letter-spacing: 0.2rem;
+  font-size: 3rem;
+  font-weight: 900;
+  margin: 1rem 0;
+}
+
+header {
+  margin-bottom: 3rem;
+}
+
+.ma-contact ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding-inline-start: 0;
+  flex-wrap: wrap;
+}
+
+.ma-contact li {
+  font-size: 2em;
+  min-width: 1.3em;
+  text-align: center;
+}
+
+.ma-contact a:visited,
+.ma-contact a:link {
+  color: black;
+}
