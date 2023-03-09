@@ -6,7 +6,7 @@ body {
 }
 
 .ma-about a {
-}
+  text-decoration: none;}
 
 .ma-container {
   max-width: 1000px;
