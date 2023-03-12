@@ -49,6 +49,7 @@ header {
   font-size: 2em;
   min-width: 1.3em;
   text-align: center;
+  margin: 0.2em;
 }
 
 .ma-contact a:visited,
