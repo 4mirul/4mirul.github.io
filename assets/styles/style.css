@@ -1,9 +1,9 @@
 body {
   font-family: sans-serif;
-  font-family: "Arial", sans-serif;
-  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
   margin: 0;
-  background-color: whitesmoke;
+  background-color: #1B1B25;
 }
 
 .strike {
@@ -27,16 +27,16 @@ body {
   flex: 1 0 auto;
 }
 
-/* h1 {
+h1 {
   letter-spacing: 0.1rem;
   font-size: 3rem;
   font-weight: 900;
   margin: 1rem 0;
-} */
+}
 
-/* header {
+header {
   margin-bottom: 3rem;
-} */
+}
 
 .ma-contact ul {
   list-style-type: none;
@@ -55,5 +55,5 @@ body {
 
 .ma-contact a:visited,
 .ma-contact a:link {
-  color: black;
+  color: white;
 }
